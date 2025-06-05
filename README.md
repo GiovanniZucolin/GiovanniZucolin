@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/GiovanniZucolin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniZucolin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniZucolin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniZucolin&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <!--<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">--->
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
